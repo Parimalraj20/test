@@ -1,0 +1,8 @@
+This is an test file
+Just completed 
+git init
+git config user.mail "email ID"
+git config user.name "user name"
+git add. ( for adding all the file)
+git add file_name ( for particular file )
+git commit -m "Give commit message"
